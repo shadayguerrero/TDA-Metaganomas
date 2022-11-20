@@ -1,0 +1,6 @@
+subsp_capsici_1101
+insidiosus_ATCC_10253
+subsp_michi_contigs
+subsp_nebraskensis_419B
+subsp_sepedonicus_ATCC33113
+tessellarius_ATCC_33566
