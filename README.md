@@ -9,7 +9,7 @@ In this folder we find some scripts with examples of Topological Data Analysis (
 3. Simplex_tree
 
 ## Scripts
-1. Sim_Metagenome.ipynb
+1. [/scripts/Sim_Metagenome.ipynb](Sim_Metagenome.ipynb)
 With this notebook, we use `PyMetaSeem` to generate random reads from various clavibacter michiganensis subspecies stored in [/genomes/6TP/](genomes/6TP/).
  2. make_csv_from_bowtie.ipynb
  In this case, we can generate CSV files, with a Read to Organism Mapping (ROM) between the simulated metagenomes and the database using `bowtie2`.
