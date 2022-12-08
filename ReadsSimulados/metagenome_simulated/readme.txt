@@ -1,6 +1,0 @@
-true positive in the metagenomes
-metagenome_2TP_R1.fastq	capsici_1101_R1.fastq	tessellarius_ATCC_33566_R1.fastq
-metagenome_3TP_R1.fastq insidiosus_ATCC_10253_R1.fastq
-metagenome_4TP_R1.fastq	nebraskensis_419B_R1.fastq
-metagenome_5TP_R1.fastq	sepedonicus_ATCC33113_R1.fastq
-metagenome_6TP_R1.fastq	michi_contigs_R1.fastq
