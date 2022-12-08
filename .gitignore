@@ -1,5 +1,5 @@
 Reads_DWGSIM/
 ReadsSimulados/salmonella/
-output-tda/
-CSV/
+output-tda
+!/output-tda/CSV
 
