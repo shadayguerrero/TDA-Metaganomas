@@ -118,7 +118,7 @@ def reads(dicc_contigs,dicc_longitudes,dicc_proporciones,n_length,num_reads_tota
     dicc_reads_reverse = {} # diccionario de reverso reads
     k = 0
     kk = 0
-    inserto = 400 #400 #(tamaño promedio del inserto), depende del secuenciador y lo da el usuario
+    inserto = 300 #400 #(tamaño promedio del inserto), depende del secuenciador y lo da el usuario
      
     # LONGITUD Y NUM_READS DEPENDERA DE LAS LONGITUDES DE LOS CONTIG
     # LA LONGITUD 
